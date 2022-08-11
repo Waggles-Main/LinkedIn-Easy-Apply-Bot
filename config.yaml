@@ -1,18 +1,18 @@
-username: 
-password: 
+username: allen.g.wagner@gmail.com
+password: qcyhjrFr9Mw9Ak7!
 
 positions:
-- Data Scientist
-- # Another position you want to search for
-- # A third position you want to search for
+- UX
+- User Experience Design
+- Interaction Design
 
 locations:
 - Remote
-- # A second location you want to search in 
+- Ohio
 
 # --------- Optional Parameters -------
 # uploads:
-#  Resume: # PATH TO Resume 
+#  Resume: # PATH TO Resume
 #  Cover Letter: # PATH TO cover letter
 #  Photo: # PATH TO photo
 
@@ -20,8 +20,8 @@ locations:
 # output_filename:
 # - # PATH TO OUTPUT FILE (default output.csv)
 
-# blacklist:
-# - # Company names you want to ignore
+blacklist:
+- Nationwide
 
 #blackListTitles:
 #- # Add job titles you want to ignore
