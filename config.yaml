@@ -12,12 +12,12 @@ locations:
 
 # --------- Optional Parameters -------
 # uploads:
-#  Resume: # PATH TO Resume
+Resume: C:\Users\Waggles\Desktop\AllenWagner_Resume.pdf
 #  Cover Letter: # PATH TO cover letter
 #  Photo: # PATH TO photo
 
 
-# output_filename:
+output_filename: C:\Users\Waggles\Desktop\output.csv
 # - # PATH TO OUTPUT FILE (default output.csv)
 
 blacklist:
